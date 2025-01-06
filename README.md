@@ -31,11 +31,9 @@ HLA-DQA1-0102/DQB1-0602	RKKTSLCLMMMLPAT	0
 HLA-DRB5-0101	RFSWGAEGQRPGFGY	0  
 ```
 
-## Dependencies
-For details on additional files and dependencies, please refer to the **Notebook Description **  for each items, included in this repository.
 
 ## Dependencies
-For details on additional files and dependencies required for testing, please refer to the **Notebook Description Section** included in this repository.
+For details on additional files and dependencies required for testing, please refer to the corresponding jypyter notebooks included in this repository.
 
 Key Dependencies:
 - TensorFlow (2.16.2) # with GPU
