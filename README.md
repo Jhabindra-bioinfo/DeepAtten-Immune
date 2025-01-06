@@ -39,7 +39,6 @@ Key Dependencies:
 - TensorFlow (2.16.2) # with GPU
 - Keras (3.4.1)
 - NumPy
-- SciPy
 - scikit-learn
 - matplotlib
 ## Utilized versions
