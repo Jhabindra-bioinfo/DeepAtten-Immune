@@ -33,3 +33,23 @@ HLA-DRB5-0101	RFSWGAEGQRPGFGY	0
 
 ## Dependencies
 For details on additional files and dependencies, please refer to the **Notebook Description **  for each items, included in this repository.
+
+## Dependencies
+For details on additional files and dependencies required for testing, please refer to the **Notebook Description Section** included in this repository.
+
+Key Dependencies:
+- TensorFlow (2.16.2) # with GPU
+- Keras (3.4.1)
+- NumPy
+- SciPy
+- scikit-learn
+- matplotlib
+## Utilized versions
+**Python Version**: 3.11.9  
+**TensorFlow Version**: 2.16.2  
+**Keras Version**: 3.4.1
+
+
+## Contact
+For any questions or issues, feel free to reach out via email at (jhabindra@jbnu.ac.kr or 91979@ncc.re.kr).
+
