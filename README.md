@@ -1,4 +1,4 @@
-# Identification of Immunogenic Peptides Using Deep Learning for MHC Class I and II
+# Deep learning-driven immunogenic neoepitope identification based on structural features 
 
 This repository provides tools for the identification of immunogenic peptides using deep learning models, specifically designed for MHC class I and MHC class II molecules.  
 
