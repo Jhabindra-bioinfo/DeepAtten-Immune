@@ -1,4 +1,4 @@
-# Deep learning-driven immunogenic neoepitope identification based on structural features 
+# Deep Learning Frameworks for Identifying Immunogenic Neoepitopes
 
 This repository provides tools for the identification of immunogenic peptides using deep learning models, specifically designed for MHC class I and MHC class II molecules.  
 
@@ -8,7 +8,7 @@ To test the models with your data, ensure the following input formats:
 ### **MHC Class I Requirements**
 1. **HLA Allele Type:** Header format (e.g., `HLA-A-2402`).
 2. **Peptide Length:** 9 amino acids (e.g., `MYHNKEFDF`).
-3. **Immunogenic Information:** Label indicating immunogenicity (`1` for immunogenic, `0` for non-immunogenic).## optional
+3. **Immunogenic Information:** Label indicating immunogenicity (`1` for immunogenic, `0` for non-immunogenic).## Optional
 
 #### **Example Data Format (MHC Class I)**  
 ```
