@@ -1,4 +1,4 @@
-# Deep Learning Frameworks for Identifying Immunogenic Neoepitopes
+# DeepAtten-Immune: A Deep Learning Frameworks for Identifying Immunogenic Neoepitopes
 
 This repository provides tools for the identification of immunogenic peptides using deep learning models, specifically designed for MHC class I and MHC class II molecules.  
 
